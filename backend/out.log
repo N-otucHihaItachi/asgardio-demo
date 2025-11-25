@@ -1,0 +1,3 @@
+Using ASGARDIO_DOMAIN = https://api.asgardeo.io/t/org02fl3
+Server running on port 4000
+Proxying OIDC discovery request to https://api.asgardeo.io/t/org02fl3/oauth2/oidcdiscovery/.well-known/openid-configuration
